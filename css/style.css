@@ -90,19 +90,19 @@ body {
 }
 
 .hero__base {
-  background-image: url(/img/layer-base.jpg);
+  background-image: url(../img/layer-base.jpg);
   transform: translate3d(0, calc(var(--scrollTop) / 1.6), 0);
   z-index: 0;
 }
 
 .hero__middle {
-  background-image: url(/img/layer-middle.png);
+  background-image: url(../img/layer-middle.png);
   transform: translate3d(0, calc(var(--scrollTop) / 2.6), 0);
   z-index: 2;
 }
 
 .hero__front {
-  background-image: url(/img/layer-front.png);
+  background-image: url(../img/layer-front.png);
   transform: translate3d(0, calc(var(--scrollTop) / 6), 0);
   z-index: 3;
 }
