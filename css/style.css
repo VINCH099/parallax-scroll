@@ -42,7 +42,7 @@ body {
   width: 100%;
   height: calc(var(--index) * 16);
   bottom: calc(var(--index) * -7.8);
-  background: url(/img/ground.png);
+  background: url(../img/ground.png);
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
